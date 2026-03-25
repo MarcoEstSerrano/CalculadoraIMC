@@ -15,6 +15,8 @@ if ($peso > 0 && $estatura > 0) {
 }
 ?>
 
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
